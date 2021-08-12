@@ -21,7 +21,7 @@ The following is a guide to launching a Vue 3 TakeShape project that injects Eco
 
 5. Edit `main.js` in the `src` directory and replace the text that says `YOUR-ENDPOINT-HERE` with your API Endpoint. Replace the text that says `YOUR-API-KEY-HERE` with your API Key.
 
-6. Run `npm run serve` in your terminal.
+6. Run `npm install` and then `npm run serve` in your terminal.
 
 
 ## Learn More
