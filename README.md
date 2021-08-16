@@ -15,7 +15,7 @@ The following is a guide to launching a Vue 3 TakeShape project that injects Eco
 
 ![Useful Snippets](./images/useful-snippets.png)
 
-4. In the terminal on your local machine, clone this repo with `git clone https://github.com/takeshape/takeshape-starter-vue3.`
+4. In the terminal on your local machine, clone this repo with `git clone https://github.com/takeshape/takeshape-starter-vue3`
 
 5. Open the project in your favorite IDE or change directories into it with your terminal.
 
