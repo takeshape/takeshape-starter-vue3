@@ -4,10 +4,10 @@ import { createApp, provide, h } from 'vue'
 import { DefaultApolloClient } from '@vue/apollo-composable'
 
 const link = new HttpLink({
-  uri: 'YOUR-ENDPOINT-HERE',
+  uri: process.env.VUE_APP_TAKESHAPE_ENDPOINT,
   fetch,
   headers: {
-      Authorization : `Bearer YOUR-API-KEY-HERE`
+      Authorization : `Bearer ${process.env.VUE_APP_TAKESHAPE_ENDPOINT}`
   }
 });
 
